@@ -1,0 +1,8 @@
+/Users/dguaj/Projects/CargaJSON/CargaJSON/bin/Debug/CargaJSON.exe
+/Users/dguaj/Projects/CargaJSON/CargaJSON/bin/Debug/CargaJSON.pdb
+/Users/dguaj/Projects/CargaJSON/CargaJSON/bin/Debug/Newtonsoft.Json.dll
+/Users/dguaj/Projects/CargaJSON/CargaJSON/bin/Debug/Newtonsoft.Json.xml
+/Users/dguaj/Projects/CargaJSON/CargaJSON/obj/x86/Debug/CargaJSON.csprojResolveAssemblyReference.cache
+/Users/dguaj/Projects/CargaJSON/CargaJSON/obj/x86/Debug/CargaJSON.csproj.CoreCompileInputs.cache
+/Users/dguaj/Projects/CargaJSON/CargaJSON/obj/x86/Debug/CargaJSON.exe
+/Users/dguaj/Projects/CargaJSON/CargaJSON/obj/x86/Debug/CargaJSON.pdb

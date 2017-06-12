@@ -1,0 +1,212 @@
+﻿{
+  "1": {
+    "hora1": {
+      "hora": 1,
+      "horadesde": "08:00:00",
+      "horahasta": "08:45:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora2": {
+      "hora": 2,
+      "horadesde": "08:45:00",
+      "horahasta": "09:30:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora5": {
+      "hora": 5,
+      "horadesde": "11:30:00",
+      "horahasta": "12:15:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora6": {
+      "hora": 6,
+      "horadesde": "12:15:00",
+      "horahasta": "13:00:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    }
+  },
+  "2": {
+    "hora2": {
+      "hora": 2,
+      "horadesde": "08:45:00",
+      "horahasta": "09:30:00",
+      "asignatura": "Idioma extranjero inglés",
+      "curso": "3EM-A",
+      "sala": ""
+    },
+    "hora3": {
+      "hora": 3,
+      "horadesde": "09:45:00",
+      "horahasta": "10:30:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora4": {
+      "hora": 4,
+      "horadesde": "10:30:00",
+      "horahasta": "11:15:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora5": {
+      "hora": 5,
+      "horadesde": "11:30:00",
+      "horahasta": "12:15:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora6": {
+      "hora": 6,
+      "horadesde": "12:15:00",
+      "horahasta": "13:00:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    }
+  },
+  "3": {
+    "hora1": {
+      "hora": 1,
+      "horadesde": "08:00:00",
+      "horahasta": "08:45:00",
+      "asignatura": "Historia, geografía y ciencias sociales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora2": {
+      "hora": 2,
+      "horadesde": "08:45:00",
+      "horahasta": "09:30:00",
+      "asignatura": "Historia, geografía y ciencias sociales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora5": {
+      "hora": 5,
+      "horadesde": "11:30:00",
+      "horahasta": "12:15:00",
+      "asignatura": "Ciencias naturales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora6": {
+      "hora": 6,
+      "horadesde": "12:15:00",
+      "horahasta": "13:00:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    }
+  },
+  "4": {
+    "hora1": {
+      "hora": 1,
+      "horadesde": "08:00:00",
+      "horahasta": "08:45:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora2": {
+      "hora": 2,
+      "horadesde": "08:45:00",
+      "horahasta": "09:30:00",
+      "asignatura": "Idioma extranjero inglés",
+      "curso": "3EM-A",
+      "sala": ""
+    },
+    "hora5": {
+      "hora": 5,
+      "horadesde": "11:30:00",
+      "horahasta": "12:15:00",
+      "asignatura": "Ciencias naturales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora6": {
+      "hora": 6,
+      "horadesde": "12:15:00",
+      "horahasta": "13:00:00",
+      "asignatura": "Ciencias naturales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora8": {
+      "hora": 8,
+      "horadesde": "13:45:00",
+      "horahasta": "14:30:00",
+      "asignatura": "Educación tecnológica",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora9": {
+      "hora": 9,
+      "horadesde": "14:30:00",
+      "horahasta": "15:15:00",
+      "asignatura": "Educación tecnológica",
+      "curso": "1-A",
+      "sala": ""
+    }
+  },
+  "5": {
+    "hora1": {
+      "hora": 1,
+      "horadesde": "08:00:00",
+      "horahasta": "08:45:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora2": {
+      "hora": 2,
+      "horadesde": "08:45:00",
+      "horahasta": "09:30:00",
+      "asignatura": "Matemática",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora3": {
+      "hora": 3,
+      "horadesde": "09:45:00",
+      "horahasta": "10:30:00",
+      "asignatura": "Historia, geografía y ciencias sociales",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora4": {
+      "hora": 4,
+      "horadesde": "10:30:00",
+      "horahasta": "11:15:00",
+      "asignatura": "Orientación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora5": {
+      "hora": 5,
+      "horadesde": "11:30:00",
+      "horahasta": "12:15:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    },
+    "hora6": {
+      "hora": 6,
+      "horadesde": "12:15:00",
+      "horahasta": "13:00:00",
+      "asignatura": "Lenguaje y comunicación",
+      "curso": "1-A",
+      "sala": ""
+    }
+  }
+}

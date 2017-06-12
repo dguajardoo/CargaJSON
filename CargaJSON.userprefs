@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{71B29CDE-4A6B-4F77-BA89-567B12770EC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CargaJSON/Horario.cs">
+    <Files>
+      <File FileName="CargaJSON/Program.cs" Line="33" Column="25" />
+      <File FileName="CargaJSON/Horario.cs" Line="59" Column="22" />
+      <File FileName="CargaJSON/MockService.cs" Line="23" Column="15" />
+      <File FileName="CargaJSON/horario.json" Line="212" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CargaJSON PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
